@@ -1,0 +1,2 @@
+# BladeCore
+A reusable framework
